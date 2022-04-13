@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "clockworkrewound:raw_brass"
+  },
+  "result": "clockworkrewound:brassingot",
+  "experience": 0.0,
+  "cookingtime": 200
+}

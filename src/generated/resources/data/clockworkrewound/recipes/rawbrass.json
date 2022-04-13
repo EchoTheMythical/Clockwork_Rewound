@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:raw_iron"
+        },
+        {
+            "item": "minecraft:raw_copper"
+        }
+    ],
+    "result": {
+        "item": "clockworkrewound:raw_brass",
+        "count": 2
+    },
+    "group": "brass"
+}
